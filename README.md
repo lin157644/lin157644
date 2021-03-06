@@ -1,26 +1,21 @@
-<div align="center">
-   <h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+### Hello There! I'm Xiang-Shun. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+- 🎓 Currently studying MIS at National Centual University
+- 👾 Python, C++
+- ❤️ Animals 😸, Games 🐳 and guitars 🎸
+
+<div>
+  <img align="center" src="https://raw.githubusercontent.com/lin157644/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg">
+  <div style="display: flex;align-items: center;">
+    <img src="https://raw.githubusercontent.com/lin157644/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg" >
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=%E6%B6%BC%E7%AD%8D&redirect=true" target="_blank" >
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=%E6%B6%BC%E7%AD%8D&cover_image=false&theme=default" >
+  </div>
 </div>
-
-![](https://raw.githubusercontent.com/lin157644/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
-
-<img src="https://raw.githubusercontent.com/lin157644/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg" align="left">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=%E6%B6%BC%E7%AD%8D&redirect=true" target="_blank">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=%E6%B6%BC%E7%AD%8D&cover_image=false&theme=default" align="left">
-</a>
-
 
 <!--
 **lin157644/lin157644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
